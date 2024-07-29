@@ -1,6 +1,6 @@
 package gitTest;
 
 public class Test3 {
-	String a = "2";
+	String a = "22";
 
 }
